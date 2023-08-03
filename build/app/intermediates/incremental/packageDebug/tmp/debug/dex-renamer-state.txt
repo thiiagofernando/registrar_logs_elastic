@@ -1,0 +1,4 @@
+#Sun Jul 30 19:52:12 AMT 2023
+base.0=/home/thiago/dev/log_elastic_mobile/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
